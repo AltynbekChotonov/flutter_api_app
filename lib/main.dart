@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_api_app/view/homview.dart';
 import 'package:get/get.dart';
-
-import 'view/homview.dart';
 
 void main() {
   runApp(const MyApp());
